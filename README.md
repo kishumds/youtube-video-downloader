@@ -8,6 +8,6 @@ This repository contains script file (code) and also exe file.
 You can use this app for download video/audio from YouTube. Just copy link of video from YouTube and paste it and then select quality and download path. Hit download button and that's it. See preview 👇
 
 ### Preview
-<img src="/dist/preview.png" alt="Alt text" title="Optional title" width="560" height="600">
+<img src="/dist/preview.png" alt="Preview" title="Preview" width="560" height="600">
 
-### [Watch Demo](/dist/demo.mo4)
+### [Watch Demo](/dist/demo.mp4)
